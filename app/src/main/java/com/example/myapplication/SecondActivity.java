@@ -28,6 +28,9 @@ public class SecondActivity extends AppCompatActivity {
      for (int i=0; i<4 ;i++){
          list.add("第"+i+"个数据");
 /**在   加了一个*/
+/**在   加了一个*/
+/**在   加了一个*/
+/**在   加了一个*/
          Log.d("main",list.get(0));
          if (list.size() == 3){
              list.remove(0);
